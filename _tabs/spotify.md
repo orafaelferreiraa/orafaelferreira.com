@@ -19,7 +19,6 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 #### #30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa
 [![#30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/30.png)](https://open.spotify.com/episode/0tqLcH3W4jIn51Gyvb3pSt?si=72752b523fe54050)
 
-
 #### #29 Episódio com Osvaldo Alves: Liderança de Engenharia
 [![#29 Episódio com Osvaldo Alves: Liderança de Engenharia](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/29.png)](https://open.spotify.com/episode/5HkAsqxrwkgtfUlWdOVEzH?si=8210421b9f774cc1)
 
