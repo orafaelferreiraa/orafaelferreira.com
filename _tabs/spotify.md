@@ -16,6 +16,10 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #31 Episódio com André Guilherme: A jornada DevOps - CoffOps
+[![#31 Episódio com André Guilherme: A jornada DevOps - CoffOps](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/31.png)](https://open.spotify.com/episode/4ZhOkMP11BDiad0zRWqpct?si=87ddb70400834d56)
+
+
 #### #30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa
 [![#30 Episódio com Rafael Caumo: De HelpDesk no Brasil a DevOps Engineer na Europa](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/30.png)](https://open.spotify.com/episode/0tqLcH3W4jIn51Gyvb3pSt?si=72752b523fe54050)
 
