@@ -11,7 +11,7 @@ order: 3
 
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/31b57dfa-d1f3-495a-8329-9af19b26180b/public_url/ "2024 Microsoft Most Valuable Professional (MVP)")
 
-## 🔵 Microsoft MVP Azure 2024
+## 🔵 Microsoft MVP Azure 2025
 
 O [**Microsoft MVP Award**](https://mvp.microsoft.com/) reconhece profissionais que **compartilham expertise com a comunidade** e contribuem para o ecossistema Microsoft.
 
