@@ -9,9 +9,13 @@ order: 7
 
 Nesta página quero compartilhar um pouco da minha jornada profissional e das experiências que moldaram meu caminho até aqui. Desde os primeiros passos como um Assistente Técnico até a função atual de Cloud Solution Architect Senior, cada etapa desempenhou um papel fundamental na minha trajetória. Este post será uma oportunidade para refletir sobre os desafios superados, as habilidades adquiridas e as lições aprendidas ao longo do caminho. Espero que minha história possa inspirar e motivar outros profissionais em suas próprias jornadas. Vamos lá!
 
+## Senior Azure Platform Engineer
+- **Empresa:** Stefanini North America and APAC
+- **Período:** Jul 2025 - Present
+
 ## Senior Azure DevOps Solution Engineer
 - **Empresa:** Softensity Inc
-- **Período:** Dec 2024 - Presente
+- **Período:** Dec 2024 - Jul 2025
 - **Descrição:** Atuo em um time global de engenharia de plataforma com foco em Platform as a Product, em um dos maiores ambientes Microsoft em escala mundial. Estou alocado em um cliente multinacional do setor de auditoria (Big Four), trabalhando em um ecossistema Enterprise-scale de alta complexidade.
 
 Responsável por impulsionar a evolução, sustentação e governança de uma plataforma robusta e altamente padronizada, baseada em soluções PaaS e Serverless na Azure Cloud, que atende equipes técnicas distribuídas globalmente. Assegurando excelência operacional contínua, conformidade contínua e aderência às melhores práticas em Cloud Governance e Cloud Security.
@@ -58,7 +62,7 @@ Implementação e gerenciamento do Microsoft 365 Admin Portal e o Microsoft Endp
 - **Período:** Jan 2021 - Jul 2021 (7 meses)
 - **Descrição:** Atuei no suporte remoto e local de nível 3 para usuários do Sesi/Senai, lidando com incidentes e solicitações diversas. Responsável pelo diagnóstico e solução de problemas em toda a infraestrutura de rede (WAN, LAN, Wi-Fi, TCP/IP), servidores (AD, DNS, DHCP, Hyper-V), dispositidos de redes (switches, access points, roteadores, firewalls) e periféricos. Diagnostico e soluções de problemas de rede e servidores, garantindo a continuidade das operações. Instalação e configuração de sistemas operacionais Windows e Windows Servers, melhorando a infraestrutura. Consultoria para a melhorar a utilização de sistemas e equipamentos, aumentando a eficiência dos usuários. Através de um contato direto com o cliente final e aplicando as melhores práticas ITIL, resolvi tickets de forma eficiente dentro dos SLAs acordados, contribuindo para a melhoria da satisfação do usuário e a otimização dos recursos de TI.
 
-## Analista de Suporte Junior N3
+## Analista de Suporte N3
 - **Empresa:** Qintess
 - **Período:** Mai 2018 - Dez 2020 (2 anos e 8 meses)
 - **Descrição:** Atendi a incidentes e solicitações de usuários do Sesi/Senai, oferecendo suporte remoto e local de nível 3. Fui responsável por diagnosticar e solucionar problemas na infraestrutura de rede (WAN, LAN, Wi-Fi, TCP/IP), servidores (AD, DNS, DHCP, Hyper-V), dispositivos de rede (switches, access points, roteadores, firewalls) e periféricos, além da instalação e configuração de sistemas operacionais Windows. Realizei diagnósticos e soluções de problemas de rede e servidores para garantir a continuidade das operações, configurei e instalei sistemas operacionais Windows, e prestei consultoria para otimizar o uso de sistemas e equipamentos. Utilizei as melhores práticas ITIL para resolver tickets eficientemente, mantendo os SLAs acordados. Minha atuação assegurou a resolução eficaz de tickets, melhorando a satisfação do usuário e otimizando os recursos de TI, além de manter a infraestrutura de TI estável e segura.
