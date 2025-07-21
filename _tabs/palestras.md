@@ -11,14 +11,24 @@ Seja bem-vindo à minha página dedicada a palestras sobre tecnologias! Aqui, co
 Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, estudantes e entusiastas, proporcionando uma visão única sobre tendências, desafios superados e lições aprendidas ao longo da minha jornada profissional.
 
 
+# Próximos eventos: 
+
+##  16/08/25 - Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer - HNWD Florianópolis 2025
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.sympla.com.br/evento/hnwd-florianopolis-2025/2960275)
+
+##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
+
+##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - MVP CONF - Curitiba
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
+
 <!--- 
 # Próximos eventos: 
 --->
 
-
 # Presenciais:
 
-##  26/04/025 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
+##  26/04/2025 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
 
 - <i class="fa-solid fa-link"></i> **Site Oficial do Evento** [Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau](https://www.hubingressos.com.br/evento/mvpconfb?fbclid=PAZXh0bgNhZW0CMTEAAae2jLvLRGwbJ3oQupIXBr3UqpfG8Lwm7iChRGZTWZGbfNs7kYv3qAN7WnS5Dw_aem_ZNYUWHi4GveqP7Mg-bIPJQ)
