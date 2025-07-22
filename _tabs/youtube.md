@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD
+[![#33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD](https://img.youtube.com/vi/kKa4aZd0TOQ/0.jpg)](https://www.youtube.com/watch?v=kKa4aZd0TOQ)
+
 ## #32 Episódio com Fábio Silva: o Arquiteto que não escolhe nuvem, devorador de clouds
 [![#32 Episódio com Fábio Silva: o Arquiteto que não escolhe nuvem, devorador de clouds](https://img.youtube.com/vi/atwtbv6qAdo/0.jpg)](https://www.youtube.com/watch?v=atwtbv6qAdo)
 
