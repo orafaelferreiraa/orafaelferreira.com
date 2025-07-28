@@ -16,6 +16,10 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### #32 Episódio com Fábio Silva: o Arquiteto que não escolhe nuvem, devorador de clouds
+[![#32 Episódio com Fábio Silva: o Arquiteto que não escolhe nuvem, devorador de clouds](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/32.png)](https://open.spotify.com/episode/6Mm8se235wdqOXbndsB4zQ?si=c5fc6b7067494117)
+
+
 #### #31 Episódio com André Guilherme: A jornada DevOps - CoffOps
 [![#31 Episódio com André Guilherme: A jornada DevOps - CoffOps](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/31.png)](https://open.spotify.com/episode/4ZhOkMP11BDiad0zRWqpct?si=87ddb70400834d56)
 
