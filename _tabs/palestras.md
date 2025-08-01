@@ -15,6 +15,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  16/08/25 - Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer - HNWD Florianópolis 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.sympla.com.br/evento/hnwd-florianopolis-2025/2960275)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/HNWD/1.jpeg)
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
