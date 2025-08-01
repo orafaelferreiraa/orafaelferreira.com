@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #34 Marcelo Pacífico: Copilot, IA e um toque de MVP: o que vem depois da transformação digital?
+[![#34 Marcelo Pacífico: Copilot, IA e um toque de MVP: o que vem depois da transformação digital?](https://img.youtube.com/vi/gnlfAjn6MUg/0.jpg)](https://www.youtube.com/watch?v=gnlfAjn6MUg)
+
 ## #33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD
 [![#33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD](https://img.youtube.com/vi/kKa4aZd0TOQ/0.jpg)](https://www.youtube.com/watch?v=kKa4aZd0TOQ)
 
