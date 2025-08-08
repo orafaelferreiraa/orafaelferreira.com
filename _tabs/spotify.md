@@ -17,7 +17,7 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 ### Episódios Destacados
 
 #### #33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD
-[![#33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/32.png)](https://open.spotify.com/episode/6Mm8se235wdqOXbndsB4zQ?si=c5fc6b7067494117)
+[![#33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/33.png)](https://open.spotify.com/episode/63gDNMVDFFRoJaylopBgJq?si=e2c50d40e2a74f56)
 
 #### #32 Episódio com Fábio Silva: o Arquiteto que não escolhe nuvem, devorador de clouds
 [![#32 Episódio com Fábio Silva: o Arquiteto que não escolhe nuvem, devorador de clouds](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/32.png)](https://open.spotify.com/episode/6Mm8se235wdqOXbndsB4zQ?si=c5fc6b7067494117)
