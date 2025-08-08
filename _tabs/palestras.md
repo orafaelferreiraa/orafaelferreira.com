@@ -210,7 +210,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Azure Workbooks para Otimização de Custos com FinOps](https://stoblobcertificados011.blob.core.windows.net/palestras/Workbooks.pdf)
 
 ## 24/08/2024 - [ConFLOSS](https://confloss.com.br/) - Observabilidade, além do alcance
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/confloss.jpeg)
+[![- Observabilidade, além do alcance](https://img.youtube.com/vi/-Q906efT7x0/0.jpg)](https://www.youtube.com/watch?v=-Q906efT7x0)
 
 - <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Divulgação Linkedin](https://www.linkedin.com/posts/rafaelmaferreira_confloss-linux-opensource-activity-7214961215465242626-jfLe?utm_source=share&utm_medium=member_desktop)
 
