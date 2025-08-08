@@ -226,7 +226,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ## 12/08/2024 - Uma Visão Abrangente do Gerenciamento Moderno de Endpoints - [**INTUNE WEEK**](https://intuneweek.com/)
 
-[![Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://img.youtube.com/vi/o9pgbI_eB38/0.jpg)](https://www.youtube.com/watch?v=o9pgbI_eB38)
+[![Uma Visão Abrangente do Gerenciamento Moderno de Endpoints](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/intuneweek.jpeg)
 
 - <i class="fa-brands fa-linkedin"></i> **Saiba mais:** [Cronograma Evento](https://www.linkedin.com/posts/rafaelmaferreira_intuneweek-lowops-mvp-activity-7228820716995899392-27r_?utm_source=share&utm_medium=member_desktop)
 
