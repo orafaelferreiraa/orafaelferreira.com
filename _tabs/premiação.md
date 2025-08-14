@@ -9,7 +9,7 @@ order: 3
 
 > Quatro programas, um propósito: **enaltecer quem compartilha conhecimento e fortalece a comunidade tech**.
 
-[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/31b57dfa-d1f3-495a-8329-9af19b26180b/public_url/ "2024 Microsoft Most Valuable Professional (MVP)")
+[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob)](https://www.credly.com/badges/24b7565e-0e16-4f33-a6c9-3f7c91fbe1b0/public_url "2025 Microsoft Most Valuable Professional (MVP)")
 
 ## 🔵 Microsoft MVP Azure 2025
 
