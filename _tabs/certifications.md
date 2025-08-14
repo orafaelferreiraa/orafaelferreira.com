@@ -10,7 +10,7 @@ order: 4
 
 Certificações são marcos importantes na minha jornada profissional. Elas representam o compromisso com a excelência e a busca constante por conhecimento. Aqui estão algumas das certificações que conquistei ao longo dos anos, cada uma delas refletindo o desejo de me aprimorar e oferecer o melhor em cada projeto. Vamos explorar juntos essa jornada de aprendizado e crescimento.
 
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob)](https://www.credly.com/badges/a2363246-1248-4028-a237-79b965fbcef3/public_url "HashiCorp Certified: Terraform Associate (003)")
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/118x118/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob)](https://www.credly.com/badges/a2363246-1248-4028-a237-79b965fbcef3/public_url "HashiCorp Certified: Terraform Associate (003)")
 
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/118x118/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](https://learn.microsoft.com/api/credentials/share/en-us/rafaferreira11/EA24867B521F82D8?sharingId=AF242064A982B1A4 "Microsoft Certified: DevOps Engineer Expert")
 
