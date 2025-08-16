@@ -13,21 +13,31 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-##  16/08/25 - Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer - HNWD Florianópolis 2025
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.sympla.com.br/evento/hnwd-florianopolis-2025/2960275)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/HNWD/1.jpeg)
+##  30/08/25 - DevOps Além da Hype: Pessoas, Cultura e Prática - DevOpsDays Curitiba 2025
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-curitiba/welcome/)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/DOD-Curitiba/1.png)
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
 
 ##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - MVP CONF - Curitiba
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
 
 <!--- 
 # Próximos eventos: 
 --->
 
 # Presenciais:
+
+##  16/08/25 - Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer - HNWD Florianópolis 2025
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/HNWD/1.jpeg)
+
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.sympla.com.br/evento/hnwd-florianopolis-2025/2960275)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_hnwd-hnwd25-hnwdsc-activity-7358096889168154624-AeFY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer](https://stoblobcertificados011.blob.core.windows.net/palestras/CloudModernaANTIAtaque.pdf)
 
 ##  26/04/2025 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
