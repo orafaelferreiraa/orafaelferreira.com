@@ -19,6 +19,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/01.png)
 
 ##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - MVP CONF - Curitiba
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
