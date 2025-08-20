@@ -40,6 +40,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer](https://stoblobcertificados011.blob.core.windows.net/palestras/CloudModernaANTIAtaque.pdf)
 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
+
 ##  26/04/2025 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
 
