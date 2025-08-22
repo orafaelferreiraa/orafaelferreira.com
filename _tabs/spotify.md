@@ -16,6 +16,9 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 
 ### Episódios Destacados
 
+#### ##34 Marcelo Pacífico: Copilot, IA e um toque de MVP: o que vem depois da transformação digital?
+[![##34 Marcelo Pacífico: Copilot, IA e um toque de MVP: o que vem depois da transformação digital?](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/34.png)](https://open.spotify.com/episode/41ijkAcnqmOtQG3BlZhzHP?si=ef9f1700d9274b3f)
+
 #### #33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD
 [![#33 Episódio com Fernando Capin: DBA raiz, arquiteto de sistemas, fundador da DragonBD](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/33.png)](https://open.spotify.com/episode/63gDNMVDFFRoJaylopBgJq?si=e2c50d40e2a74f56)
 
