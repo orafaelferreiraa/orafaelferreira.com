@@ -13,9 +13,9 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-##  30/08/25 - DevOps Além da Hype: Pessoas, Cultura e Prática - DevOpsDays Curitiba 2025
+##  03/09/25 - Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua? - Encontro das comunidades AWS User Group Floripa + DevOps Floripa 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-curitiba/welcome/)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/DOD-Curitiba/1.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/01.jpeg)
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
@@ -30,6 +30,19 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 --->
 
 # Presenciais:
+
+##  30/08/25 - DevOps Além da Hype: Pessoas, Cultura e Prática - DevOpsDays Curitiba 2025
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-curitiba/welcome/)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/DOD-Curitiba/1.png)
+
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-curitiba/registration)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_devopsdayscuritiba-devops-teamtopologies-activity-7363170324114300930-K1WS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além da Hype: Pessoas, Cultura e Prática](https://stoblobcertificados011.blob.core.windows.net/palestras/DevOps-CRTB.pdf)
+<!--- 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
+--->
 
 ##  16/08/25 - Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer - HNWD Florianópolis 2025
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/HNWD/1.jpeg)
