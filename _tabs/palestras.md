@@ -40,6 +40,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_devopsdayscuritiba-devops-teamtopologies-activity-7363170324114300930-K1WS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além da Hype: Pessoas, Cultura e Prática](https://stoblobcertificados011.blob.core.windows.net/palestras/DevOps-CRTB.pdf)
+
 <!--- 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
 --->
