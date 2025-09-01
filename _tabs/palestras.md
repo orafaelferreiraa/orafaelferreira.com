@@ -14,7 +14,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 # Próximos eventos: 
 
 ##  03/09/25 - Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua? - Encontro das comunidades AWS User Group Floripa + DevOps Floripa 2025
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-curitiba/welcome/)
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.meetup.com/aws-user-group-floripa/events/310698392/?eventOrigin=group_events_list)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/01.jpeg)
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
