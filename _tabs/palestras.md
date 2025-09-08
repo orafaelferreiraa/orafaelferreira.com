@@ -31,6 +31,18 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Presenciais:
 
+##  03/09/25 - Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua? - Encontro das comunidades AWS User Group Floripa + DevOps Floripa 2025
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.meetup.com/aws-user-group-floripa/events/310698392/?eventOrigin=group_events_list)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/01.jpeg)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/devopsdaysfln_%C3%A9-hoje-estaremos-representados-pelo-activity-7368982812567277568-iJ_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua?](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-meetup25.pdf)
+
+<!--- 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
+--->
+
 ##  30/08/25 - DevOps Além da Hype: Pessoas, Cultura e Prática - DevOpsDays Curitiba 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-curitiba/welcome/)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/DOD-Curitiba/1.png)
