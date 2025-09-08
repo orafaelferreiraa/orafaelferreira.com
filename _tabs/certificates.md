@@ -22,6 +22,8 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2025
 
+- [2025-09 - Encontro AWS User Group Floripa](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-09-EncontroAWSUserGroupFloripa.pdf)
+- [2025-08 - Palestrante DevOpsDays Curitiba 2025](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-08-PalestranteDevOpsDaysCuritiba2025.pdf)
 - [2025-08 - Palestrante - Hacking na Web Day Florianópolis 2025](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-08-Palestrante-HNWDFlorianopolis2025.pdf)
 - [2025-07 - HashiCorp Certified: Terraform Associate (003)](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-07-HashiCorpCertifiedTerraformAssociate(003).pdf)
 - [2025-07 - 2025 Microsoft Most Valuable Professional (MVP)](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-07-MostValuableProfessionalCertificate.pdf.pdf)
