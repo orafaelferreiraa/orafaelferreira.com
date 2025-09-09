@@ -31,11 +31,19 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.meetup.com/aws-user-group-floripa/events/310698392/?eventOrigin=group_events_list)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/01.jpeg)
 
+<<<<<<< HEAD
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além da Hype: Pessoas, Cultura e Prática](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-meetup25.pdf)
 
 <!--- 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_devopsdayscuritiba-devops-teamtopologies-activity-7363170324114300930-K1WS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
+=======
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/devopsdaysfln_%C3%A9-hoje-estaremos-representados-pelo-activity-7368982812567277568-iJ_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua?](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-meetup25.pdf)
+
+<!--- 
+>>>>>>> 8f340a5a1e9cc5098a62eeebce94255fa3886d36
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
 --->
 
