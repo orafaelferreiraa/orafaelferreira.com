@@ -13,37 +13,47 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
+##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
+
+## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - White Stone Dev Pedra Branca
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos)
+
+## 26/10/25 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://mvpconf.com.br/)
+
+## 29/11/25 - Como aplicar Segurança em Camadas na sua arquitetura Cloud Native com Open Source - DevOpsDays Porto Alegre 2025
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-porto-alegre/welcome/)
+
+<!--- 
+https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curitiba-activity-7371148321295503360-lnq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw
+--->
+
+
+# Presenciais:
+
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/01.png)
 
-##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - MVP CONF - Curitiba
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Arquitetando um Futuro Sustentável ](https://stoblobcertificados011.blob.core.windows.net/palestras/tdc-greenops-25.pdf)
 
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_greenops-devops-cloudcomputing-activity-7363895133244637186-TJTO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 <!--- 
-# Próximos eventos: 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
 --->
-
-# Presenciais:
 
 ##  03/09/25 - Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua? - Encontro das comunidades AWS User Group Floripa + DevOps Floripa 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.meetup.com/aws-user-group-floripa/events/310698392/?eventOrigin=group_events_list)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/01.jpeg)
 
-<<<<<<< HEAD
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além da Hype: Pessoas, Cultura e Prática](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-meetup25.pdf)
 
-<!--- 
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_devopsdayscuritiba-devops-teamtopologies-activity-7363170324114300930-K1WS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
-=======
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/devopsdaysfln_%C3%A9-hoje-estaremos-representados-pelo-activity-7368982812567277568-iJ_-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
-
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua?](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-meetup25.pdf)
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_no-pr%C3%B3ximo-0309-vou-estar-no-audit%C3%B3rio-da-activity-7368611769486864386-6CjO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
 <!--- 
->>>>>>> 8f340a5a1e9cc5098a62eeebce94255fa3886d36
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
 --->
 
