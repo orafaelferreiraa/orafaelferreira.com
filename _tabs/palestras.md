@@ -37,12 +37,11 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/01.png)
 
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_greenops-devops-cloudcomputing-activity-7363895133244637186-TJTO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Arquitetando um Futuro Sustentável ](https://stoblobcertificados011.blob.core.windows.net/palestras/tdc-greenops-25.pdf)
 
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_greenops-devops-cloudcomputing-activity-7363895133244637186-TJTO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
-<!--- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
---->
+<!--- - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
 
 ##  03/09/25 - Explorando a cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua? - Encontro das comunidades AWS User Group Floripa + DevOps Floripa 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.meetup.com/aws-user-group-floripa/events/310698392/?eventOrigin=group_events_list)
