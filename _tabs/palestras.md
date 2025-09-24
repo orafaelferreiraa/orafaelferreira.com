@@ -41,7 +41,6 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
-- <i class="fa-solid fa-link"></i> 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/01.png)
 
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud)
