@@ -13,12 +13,8 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
-
-## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - White Stone Dev Pedra Branca
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos)
+## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos/8edicao)
 
 ## 26/10/25 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://mvpconf.com.br/)
@@ -31,6 +27,18 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 --->
 
 # Presenciais:
+
+##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
+
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.hubingressos.com.br/evento/mvpconfcuritiba)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curitiba-activity-7371148321295503360-lnq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba](https://stoblobcertificados011.blob.core.windows.net/palestras/mvpcrtb25.pdf)
+
+<!--- - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
+
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 - <i class="fa-solid fa-link"></i> 
