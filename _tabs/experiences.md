@@ -12,6 +12,17 @@ Nesta página quero compartilhar um pouco da minha jornada profissional e das ex
 ## Senior Azure Platform Engineer
 - **Empresa:** Stefanini North America and APAC
 - **Período:** Jul 2025 - Present
+- **Descrição:** Atuo como Senior Azure Platform Engineer em um time global de Cloud & Infrastructure, com foco em Azure Enterprise-scale. Nosso desafio é criar, evoluir e sustentar uma plataforma escalável, padronizada e governada, garantindo que os times de desenvolvimento possam consumir recursos em nuvem de forma segura, eficiente e automatizada.
+
+Provisionamento e gestão de ambientes em larga escala utilizando Terraform Infrastructure as Code (IaC), assegurando padronização, imutabilidade e governança automatizada.
+
+Desenvolvimento e manutenção de pipelines CI/CD com GitHub Actions, viabilizando entregas ágeis, seguras e automatizadas em múltiplos ambientes.
+
+Implementação de soluções de Observabilidade & Monitoramento com Stack Kube-Prometheus (Prometheus e Grafana), configuração de alertas customizados, garantindo confiabilidade nos workloads críticos.
+Práticas de FinOps/Cloud Cost Optimization, otimizando ambientes, identificando recursos órfãos, explorando spot instances e aplicando estratégias de economia nos recursos superdimensionados, garantindo eficiência operacional e redução contínua de custos.
+
+Sustentação de clusters AKS, aplicando práticas de GitOps com ArgoCD e Helm Charts para provisionar uma plataforma resiliente e escalável de aplicações em contêiner. Implementação de estratégias de automação, padronização e melhoria contínua, buscando a eficiência, resiliência e governança dos clusters em ambientes críticos.
+
 
 ## Senior Azure DevOps Solution Engineer
 - **Empresa:** Softensity Inc
