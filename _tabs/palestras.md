@@ -13,9 +13,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos/8edicao)
-
 ## 26/10/25 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://mvpconf.com.br/)
 
@@ -27,6 +24,17 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 --->
 
 # Presenciais:
+
+## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos/8edicao)
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
+<!---
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curitiba-activity-7371148321295503360-lnq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba](https://stoblobcertificados011.blob.core.windows.net/palestras/mvpcrtb25.pdf)
+
+ - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
 
 ##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
@@ -61,9 +69,7 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_no-pr%C3%B3ximo-0309-vou-estar-no-audit%C3%B3rio-da-activity-7368611769486864386-6CjO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
-<!--- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
---->
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/dod-meetupaws/)
 
 ##  30/08/25 - DevOps Além da Hype: Pessoas, Cultura e Prática - DevOpsDays Curitiba 2025
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/DOD-Curitiba/1.png)
@@ -73,10 +79,9 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_devopsdayscuritiba-devops-teamtopologies-activity-7363170324114300930-K1WS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps Além da Hype: Pessoas, Cultura e Prática](https://stoblobcertificados011.blob.core.windows.net/palestras/DevOps-CRTB.pdf)
+ 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/dod-crtb25/)
 
-<!--- 
-- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
---->
 
 ##  16/08/25 - Cloud Moderna ANTI Ataque: blindagem DevOps que você PRECISA conhecer - HNWD Florianópolis 2025
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/HNWD/1.jpeg)
