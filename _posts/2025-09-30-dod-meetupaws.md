@@ -17,6 +17,8 @@ Um evento colaborativo que uniu duas comunidades vibrantes para discutir **compu
 
 ### Explorando a Cultura DevOps: Por que tanto se fala de cultura por trás da entrega contínua?  
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/foto-rafael2.jpg)
+
 Na minha sessão, trouxe reflexões sobre como a **cultura** é o principal motor por trás das práticas DevOps.  
 Mais do que ferramentas, DevOps é sobre **mentalidade, colaboração e propósito**.
 
@@ -45,7 +47,6 @@ O encontro teve uma programação muito rica e diversa:
 - **20h45 - 21h15** — *Explorando a Cultura DevOps* — *Rafael Ferreira (Senior Platform Engineer)*  
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/foto-rafael.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/foto-rafael2.jpg)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/foto-rafael3.jpg)
 
 - **21h15 - 21h45** — *Logs não são o suficiente* — *Marcelo Scheidt (Principal Engineer, e-Hub da Zallpy)*  
