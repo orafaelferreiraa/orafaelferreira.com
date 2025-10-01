@@ -26,14 +26,15 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 # Presenciais:
 
 ## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dod-wsd/01.png)
+
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos/8edicao)
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_whitestonedev-meetup-cultura-devops-activity-7376941063523106818-xC-n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-wsd.pptx)
+
 <!---
-- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curitiba-activity-7371148321295503360-lnq1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
-
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba](https://stoblobcertificados011.blob.core.windows.net/palestras/mvpcrtb25.pdf)
-
  - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
 
 ##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba
