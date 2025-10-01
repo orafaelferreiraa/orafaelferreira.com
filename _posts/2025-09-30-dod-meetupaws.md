@@ -74,8 +74,7 @@ O encontro teve uma programação muito rica e diversa:
 
 ## Conclusão
 
-O encontro foi uma noite incrível de aprendizado e conexão com a comunidade.  
-Agradeço à **AWS User Group Floripa**, **DevOps Floripa**, patrocinadores e todos que participaram dessa noite.
+O encontro foi uma irado cheio de aprendizado e conexão com as comunidade **AWS User Group Floripa**, **DevOps Floripa** aos patrocinadores e todos que participaram dessa noite.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EncontroDOD/certificado.png)
 
