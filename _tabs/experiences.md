@@ -12,7 +12,8 @@ Nesta página quero compartilhar um pouco da minha jornada profissional e das ex
 ## Senior Azure Platform Engineer
 - **Empresa:** Stefanini North America and APAC
 - **Período:** Jul 2025 - Present
-- **Descrição:** Atuo como Senior Azure Platform Engineer em um time global de Cloud & Infrastructure, com foco em Azure Enterprise-scale. Nosso desafio é criar, evoluir e sustentar uma plataforma escalável, padronizada e governada, garantindo que os times de desenvolvimento possam consumir recursos em nuvem de forma segura, eficiente e automatizada.
+- **Descrição:** 
+Atuo como Senior Azure Platform Engineer em um time global de Cloud & Infrastructure, com foco em Azure Enterprise-scale. Nosso desafio é criar, evoluir e sustentar uma plataforma escalável, padronizada e governada, garantindo que os times de desenvolvimento possam consumir recursos em nuvem de forma segura, eficiente e automatizada.
 
 Provisionamento e gestão de ambientes em larga escala utilizando Terraform Infrastructure as Code (IaC), assegurando padronização, imutabilidade e governança automatizada.
 
@@ -27,13 +28,7 @@ Sustentação de clusters AKS, aplicando práticas de GitOps com ArgoCD e Helm C
 ## Senior Azure DevOps Solution Engineer
 - **Empresa:** Softensity Inc
 - **Período:** Dec 2024 - Jul 2025
-- **Descrição:** Atuo em um time global de engenharia de plataforma com foco em Platform as a Product, em um dos maiores ambientes Microsoft em escala mundial. Estou alocado em um cliente multinacional do setor de auditoria (Big Four), trabalhando em um ecossistema Enterprise-scale de alta complexidade.
-
-Responsável por impulsionar a evolução, sustentação e governança de uma plataforma robusta e altamente padronizada, baseada em soluções PaaS e Serverless na Azure Cloud, que atende equipes técnicas distribuídas globalmente. Assegurando excelência operacional contínua, conformidade contínua e aderência às melhores práticas em Cloud Governance e Cloud Security.
-
-Minhas principais atividades incluem o desenvolvimento e gestão de infraestrutura utilizando Infrastructure as Code (IaC) com Bicep, garantindo escalabilidade, imutabilidade e padronização. Criação, otimização e manutenção de pipelines CI/CD com GitHub Actions, facilitando entregas ágeis, seguras e automatizadas desde o desenvolvimento até a produção.
-
-Definição e implementação de guardrails e políticas corporativas utilizando Azure Policy, RBAC e Blueprints, garantindo governança automatizada, conformidade contínua e redução de riscos. Automação de tarefas operacionais e administrativas com scripts PowerShell e Azure CLI, promovendo eficiência operacional e redução de erros humanos. Administração de complexa infraestrutura de rede corporativa, incluindo VNets, NSGs, VPN, Application Gateways, Azure Front Door, Private DNS e Private Endpoints. E Cloud Cost Optimization (FinOps), focadas na otimização contínua dos recursos e redução de custos operacionais.
+- **Descrição:** Atuo em um time global de engenharia de plataforma com foco em Platform as a Product, em um dos maiores ambientes Microsoft em escala mundial. Estou alocado em um cliente multinacional do setor de auditoria (Big Four), trabalhando em um ecossistema Enterprise-scale de alta complexidade. Responsável por impulsionar a evolução, sustentação e governança de uma plataforma robusta e altamente padronizada, baseada em soluções PaaS e Serverless na Azure Cloud, que atende equipes técnicas distribuídas globalmente. Assegurando excelência operacional contínua, conformidade contínua e aderência às melhores práticas em Cloud Governance e Cloud Security. Minhas principais atividades incluem o desenvolvimento e gestão de infraestrutura utilizando Infrastructure as Code (IaC) com Bicep, garantindo escalabilidade, imutabilidade e padronização. Criação, otimização e manutenção de pipelines CI/CD com GitHub Actions, facilitando entregas ágeis, seguras e automatizadas desde o desenvolvimento até a produção. Definição e implementação de guardrails e políticas corporativas utilizando Azure Policy, RBAC e Blueprints, garantindo governança automatizada, conformidade contínua e redução de riscos. Automação de tarefas operacionais e administrativas com scripts PowerShell e Azure CLI, promovendo eficiência operacional e redução de erros humanos. Administração de complexa infraestrutura de rede corporativa, incluindo VNets, NSGs, VPN, Application Gateways, Azure Front Door, Private DNS e Private Endpoints. E Cloud Cost Optimization (FinOps), focadas na otimização contínua dos recursos e redução de custos operacionais.
 
 ## Senior Azure DevOps Engineer 
 - **Empresa:** CI&T
