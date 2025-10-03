@@ -12,8 +12,8 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
-## #36 Leandro Venancio: AppSec raiz, DevSecOps na veia e hacking com propósito
-[![#36 Leandro Venancio: AppSec raiz, DevSecOps na veia e hacking com propósito](https://img.youtube.com/vi/SC6a11HClX4/0.jpg)](https://www.youtube.com/watch?v=SC6a11HClX4)
+## #36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia
+[![#36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia](https://img.youtube.com/vi/SC6a11HClX4/0.jpg)](https://www.youtube.com/watch?v=SC6a11HClX4)
 
 ## #35 Eduardo Chou — Segurança em nuvem, carreira global e DevSecOps raiz
 [![#35 Eduardo Chou — Segurança em nuvem, carreira global e DevSecOps raiz](https://img.youtube.com/vi/BvaXv6tYzis/0.jpg)](https://www.youtube.com/watch?v=BvaXv6tYzis)
