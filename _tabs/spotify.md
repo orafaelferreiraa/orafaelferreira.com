@@ -17,7 +17,7 @@ Neste página compartilho minha jornada na plataforma Spotify através do Podcas
 ### Episódios Destacados
 
 #### #36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia
-[![#36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/36.png)](https://open.spotify.com/episode/51VbKBg2OqFwbQ1Ee6e5aq?si=b0e080e2a2b340f3)
+[![#36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/36.png)](https://open.spotify.com/episode/3328CKApaAj4VedEDw5yGD?si=0ed4afa0745e45d0)
 
 #### #35 Eduardo Chou — Segurança em nuvem, carreira global e DevSecOps raiz
 [![#35 Eduardo Chou — Segurança em nuvem, carreira global e DevSecOps raiz](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/spotify/35.png)](https://open.spotify.com/episode/51VbKBg2OqFwbQ1Ee6e5aq?si=b0e080e2a2b340f3)
