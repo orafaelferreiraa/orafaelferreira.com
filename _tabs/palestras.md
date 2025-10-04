@@ -14,6 +14,7 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 # Próximos eventos: 
 
 ## 26/10/25 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp25/01.png)
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://mvpconf.com.br/)
 
 ## 29/11/25 - Como aplicar Segurança em Camadas na sua arquitetura Cloud Native com Open Source - DevOpsDays Porto Alegre 2025
