@@ -17,6 +17,11 @@ Foram **8 horas de muito conteúdo, inovação, networking e tecnologia** reunin
 
 ### GreenOps na Cloud: Arquitetando um Futuro Sustentável
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/02.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/03.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/04.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/05.jpg)
+
 Na minha sessão, falei sobre como **adotar práticas sustentáveis na nuvem** pode gerar impacto positivo tanto para o planeta quanto para o negócio.  
 Exploramos estratégias que combinam **FinOps, automação e arquitetura verde**, mostrando que é possível reduzir custos e emissões sem comprometer performance.
 
@@ -27,6 +32,9 @@ Toquei em temas como:
 - A importância de **arquiteturas sustentáveis e automatizadas**  
 - Casos reais e aprendizados práticos em ambientes globais  
 
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/07.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/06.jpg)
+
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/rafael-palestra.jpg)
 
 ## Programação da Trilha Arquitetura Cloud
@@ -34,16 +42,15 @@ Toquei em temas como:
 O dia foi intenso e repleto de conteúdo técnico de altíssimo nível, participi de algumas palestras:
 
 - **Thiago Silva (Bosch)** — Construindo o futuro na nuvem: Benefícios da Redundância e paz de espírito com Recuperação de Desastres  
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/thiago.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/thiago.jpg)
 
 - **Renan Oliveira (CTO - Hypetech)** e **André Bassi (Platform Engineer - Hypetech)** — Arquitetura Multi-cloud na Prática: Escalabilidade Sem Fronteiras  
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/renan-andre.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/multicloud.jpg)
 
 - **Marcello Ozzetti (Accenture)** e **Victor Muniz (Accenture)** — DevOps como Serviço: Templates Padronizados para Multi-Frameworks e Multi-Cloud  
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/marcello-victor.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/acc.jpeg)
 
 - **Camila Macedo (Red Hat)** — Descomplicando o Operator Pattern: estenda a API do Kubernetes  
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/camila.jpg)
 
 ## Encontro com os Alura Stars
 
@@ -62,11 +69,9 @@ Com um fotógrafo no local, os participantes puderam **atualizar a foto do perfi
 
 ## Galeria de Fotos
 
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/1.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/2.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/3.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/4.jpg)
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDC-SP/5.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/08.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/09.jpg)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/11.jpg)
 
 ## Certificado de Participação
 
@@ -75,3 +80,5 @@ Com um fotógrafo no local, os participantes puderam **atualizar a foto do perfi
 Participar do **TDC São Paulo** foi uma experiência incrível, energia contagiante, público engajado e discussões profundas sobre o futuro da **arquitetura em nuvem e sustentabilidade digital**.  
 
 > **Pense grande, pense verde.**
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Arquitetando um Futuro Sustentável ](https://stoblobcertificados011.blob.core.windows.net/palestras/tdc-greenops-25.pdf)
