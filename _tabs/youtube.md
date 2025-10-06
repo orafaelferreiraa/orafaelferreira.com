@@ -12,6 +12,10 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #37 Carreira DevOps na prática com Ana Sabino: Comunidade, Cloud e Cultura
+[![#37 Carreira DevOps na prática com Ana Sabino: Comunidade, Cloud e Cultura](https://img.youtube.com/vi/sLEty5m8uJo/0.jpg)](https://www.youtube.com/watch?v=sLEty5m8uJo)
+
+
 ## #36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia
 [![#36 Leandro Venancio: AppSec raiz, DevSecOps e hacking na veia](https://img.youtube.com/vi/SC6a11HClX4/0.jpg)](https://www.youtube.com/watch?v=SC6a11HClX4)
 
