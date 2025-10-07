@@ -22,6 +22,7 @@ Ao compartilhar essa coleção de certificados, cursos, eventos e palestras, meu
 
 ### 2025
 
+- [2025-06 - AZ-700 - Projetar e Implementar Soluções de Rede do Azure](https://www.udemy.com/certificate/UC-49bfc006-aeb5-476d-8083-229aac73cd8f/)
 - [2025-09 - Palestrante Trilha ARQUITETURA CLOUD - TDC 2025 SÃO PAULO](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-09-PalestranteTrilhaARQUITETURACLOUD-TDC2025S%C3%83OPAULO.pdf)
 - [2025-09 - Palestrante Encontro AWS User Group Floripa](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-09-EncontroAWSUserGroupFloripa.pdf)
 - [2025-08 - Palestrante DevOpsDays Curitiba 2025](https://stoblobcertificados011.blob.core.windows.net/certificados/2025-08-PalestranteDevOpsDaysCuritiba2025.pdf)
