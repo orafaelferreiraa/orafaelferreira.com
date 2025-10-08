@@ -12,6 +12,9 @@ Nesta seção do blog, compartilho minha jornada na plataforma YouTube pelo cana
 
 [![LowOps Channel](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/Youtube-Banner.png)](https://www.youtube.com/@LowOps-Channel)
 
+## #38 Do atendimento 102 à coordenação DevOps: a história real de Eduardo Pereira
+[![#38 Do atendimento 102 à coordenação DevOps: a história real de Eduardo Pereira](https://img.youtube.com/vi/_JwcGeotxeA/0.jpg)](https://www.youtube.com/watch?v=_JwcGeotxeA)
+
 ## #37 Carreira DevOps na prática com Ana Sabino: Comunidade, Cloud e Cultura
 [![#37 Carreira DevOps na prática com Ana Sabino: Comunidade, Cloud e Cultura](https://img.youtube.com/vi/sLEty5m8uJo/0.jpg)](https://www.youtube.com/watch?v=sLEty5m8uJo)
 
