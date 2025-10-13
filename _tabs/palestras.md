@@ -47,8 +47,7 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba](https://stoblobcertificados011.blob.core.windows.net/palestras/mvpcrtb25.pdf)
 
-<!--- - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
-
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/mvp-crtb/)
 
 ##  17/09/25 - GreenOps na Cloud: Arquitetando um Futuro Sustentável - TDC São Paulo (Trilha ARQUITETURA CLOUD)
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/01.png)
