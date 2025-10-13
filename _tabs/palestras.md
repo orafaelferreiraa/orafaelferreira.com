@@ -33,7 +33,7 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_whitestonedev-meetup-cultura-devops-activity-7376941063523106818-xC-n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
 
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-wsd.pptx)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-wsd.pdf)
 
 <!---
  - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
@@ -148,7 +148,7 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Architecting a Secure Landing Zone for AI Workloads in the Cloud](https://stoblobcertificados011.blob.core.windows.net/palestras/CIT.pdf)
 
-- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://orafaelferreira.com/posts/mvp.day//)
+- <i class="fa-solid fa-link"></i>[Blog Post + Fotos](https://orafaelferreira.com/posts/mvp.day/)
 
 - <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/rafaelmaferreira_mvp-talks-cit-conex%C3%A3o-conhecimento-e-inova%C3%A7%C3%A3o-activity-7259535011341631489-j6IA?utm_source=share&utm_medium=member_desktop)
 
