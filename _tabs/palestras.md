@@ -35,8 +35,7 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 - <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-wsd.pdf)
 
-<!---
- - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/) --->
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/wsd-devops/)
 
 ##  27/09/25 - DevOps além da hype: Pessoas, cultura e prática - Esquenta MVP CONF - Curitiba
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/EsquentaMVPCuritiba/EsquentaMVPCuritiba.png)
