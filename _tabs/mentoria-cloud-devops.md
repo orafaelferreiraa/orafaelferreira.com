@@ -45,12 +45,12 @@ Valores: Conforme o seu nível de carreira. Confira os valores de cada serviço 
 
 **Descontos por Perfil:**
 
-| Perfil                      | Mentoria | LinkedIn | Currículo |
-|-----------------------------|----------|----------|-----------|
-| Open to Work (40% off)      | R$ 600   | R$ 120   | R$ 30     |
-| Júnior (30% off)            | R$ 700   | R$ 140   | R$ 35     |
-| Pleno (20% off)             | R$ 800   | R$ 160   | R$ 40     |
-| Sênior (10% off)            | R$ 900   | R$ 180   | R$ 45     |
+| Perfil                      | Mentoria | LinkedIn | Currículo | Total      |
+|-----------------------------|----------|----------|-----------|------------|
+| Open to Work (40% off)      | R$ 600   | R$ 120   | R$ 30     | R$ 750     |
+| Júnior (30% off)            | R$ 700   | R$ 140   | R$ 35     | R$ 875     |
+| Pleno (20% off)             | R$ 800   | R$ 160   | R$ 40     | R$ 1.000   |
+| Sênior (10% off)            | R$ 900   | R$ 180   | R$ 45     | R$ 1.125   |
 
 ### 💳 Forma de Pagamento
 
