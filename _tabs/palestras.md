@@ -27,7 +27,7 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 # Presenciais:
 
 ## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/dod-wsd/01.png)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/wsd-devops/01.png)
 
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://whitestonedev.com.br/#/eventos/8edicao)
 
