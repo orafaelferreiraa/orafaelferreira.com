@@ -51,6 +51,7 @@ A 8ª edição da whiteStone_dev foi marcada por talks inspiradoras e uma energi
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/wsd-devops/04.jpg)
 
 - **20:00** — Julio Santos — *Da Entropia ao Equilíbrio: Lições de Arquitetura de Software Sustentável*  
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/wsd-devops/julio.jpeg)
 
 - **21:00** — AppSync Event API – *AWS User Group Floripa*  
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/wsd-devops/aws.jpg)
