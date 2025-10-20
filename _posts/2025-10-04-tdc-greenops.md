@@ -8,7 +8,7 @@ tags: [TDC, Cloud, GreenOps, Sustentabilidade, Azure, DevOps, Eventos, Comunidad
 
 # TDC São Paulo 2025
 
-No dia **17 de setembro de 2025**, participei como palestrante da **Trilha de Arquitetura Cloud** no **TDC São Paulo**, um dos maiores eventos de tecnologia do Brasil, realizado no **ProMagno, em São Paulo - SP**.  
+No dia **17 de setembro de 2025**, participei como palestrante da [**Trilha de Arquitetura Cloud** no **TDC São Paulo**](https://thedevconf.com/tdc/2025/sao-paulo/trilha-arquitetura-cloud), um dos maiores eventos de tecnologia do Brasil, realizado no **ProMagno, em São Paulo - SP**.  
 Foram **8 horas de muito conteúdo, inovação, networking e tecnologia** reunindo profissionais, comunidades e empresas de todo o país.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/TDCSP25/01.png)
@@ -81,4 +81,4 @@ Participar do **TDC São Paulo** foi uma experiência incrível, energia contagi
 
 > **Pense grande, pense verde.**
 
-- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Arquitetando um Futuro Sustentável ](https://stoblobcertificados011.blob.core.windows.net/palestras/tdc-greenops-25.pdf)
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps na Cloud: Arquitetando um Futuro Sustentável](https://stoblobcertificados011.blob.core.windows.net/palestras/tdc-greenops-25.pdf)

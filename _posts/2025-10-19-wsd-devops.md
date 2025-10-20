@@ -8,7 +8,7 @@ tags: [DevOps, Cultura DevOps, Comunidade, whiteStone_dev, AWS, Eventos, Palhoç
 
 # whiteStone_dev – 8ª Edição | Cultura DevOps
 
-No dia **02 de outubro de 2025**, participei como palestrante na **8ª edição da whiteStone_dev**, realizada no **INAITEC – Pedra Branca**, em **Palhoça (SC)**.  
+No dia **02 de outubro de 2025**, participei como palestrante na [**8ª edição da whiteStone_dev**](https://whitestonedev.com.br/#/eventos/8edicao), realizada no **INAITEC – Pedra Branca**, em **Palhoça (SC)**.  
 Uma noite dedicada à **Cultura DevOps**, onde a comunidade se reuniu para discutir o que realmente faz essa mentalidade transformar times e organizações.
 
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/wsd-devops/01.png)
@@ -78,3 +78,5 @@ Ver a comunidade reunida para discutir cultura, arquitetura e colaboração é o
 Agradecimento especial à **organização do whiteStone_dev**, aos **palestrante Julio Santos e equipe do AWS User Group Floripa**, e a todos que participaram dessa noite memorável.  
 
 > **DevOps não é sobre ferramentas — é sobre pessoas, cultura e propósito.**
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Antes de Estudar Ferramentas, Entenda a Cultura DevOps](https://stoblobcertificados011.blob.core.windows.net/palestras/dod-wsd.pdf)
