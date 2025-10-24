@@ -13,10 +13,6 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
-## 26/10/25 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP
-![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp25/01.png)
-- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://mvpconf.com.br/)
-
 ## 29/11/25 - Como aplicar Segurança em Camadas na sua arquitetura Cloud Native com Open Source - DevOpsDays Porto Alegre 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-porto-alegre/welcome/)
 
@@ -25,6 +21,17 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 --->
 
 # Presenciais:
+
+## 25/10/25 - GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvp25/01.png)
+
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://mvpconf.com.br/)
+
+- <i class="fa-brands fa-linkedin"></i> [**Post Linkedin**](https://www.linkedin.com/posts/orafaelferreiraa_mvpconf-azure-greenops-activity-7381289949406457858-U1xT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiBr9cBknrEzJyFEqCS03tes6G6R1yclRw)
+
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure - MVP Conf SP](https://stoblobcertificados011.blob.core.windows.net/palestras/mvp-conf25.pdf)
+<!--- 
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/wsd-devops/)--->
 
 ## 02/10/25 - Antes de Estudar Ferramentas, bora entender Sobre a cultura DevOps - 8ª Edição Cultura DevOps - White Stone Dev Pedra Branca
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/wsd-devops/01.png)
