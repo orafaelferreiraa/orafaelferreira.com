@@ -8,7 +8,7 @@ tags: [Eventos, Global Azure, Azure Floripa, Comunidade, Conferências, Evento P
 
 # Global Azure 2025 – Azure Floripa
 
-No dia **10 de maio de 2025**, rolou a edição **presencial** do **Global Azure** em **Florianópolis**, e que evento, meus amigos! Recebemos a comunidade na sede da **Neoway**, com uma programação intensa, conteúdo técnico de qualidade e aquele clima de parceria e aprendizado que só quem vive comunidade entende.
+No dia **10 de maio de 2025**, rolou a edição **presencial** do [**Global Azure 2025 – Edição Azure Floripa**](https://www.meetup.com/azure-user-groups/events/306207034/?eventOrigin=group_past_events) em **Florianópolis**, e que evento, meus amigos! Recebemos a comunidade na sede da **Neoway**, com uma programação intensa, conteúdo técnico de qualidade e aquele clima de parceria e aprendizado que só quem vive comunidade entende.
 
 Com palestras inspiradoras, demos na prática e muito networking com profissionais incríveis, essa edição mostrou a força da **comunidade Azure em Santa Catarina**.
 
