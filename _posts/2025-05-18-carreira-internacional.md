@@ -8,7 +8,9 @@ tags: [Trabalho Internacional, Global Azure, Comunidade, Carreira, Azure Floripa
 
 # Trabalhar para o Exterior: Realidade, Desafios e Oportunidades 🌍💼
 
-Durante o **Global Azure 2025 – Edição Azure Floripa**, tive o prazer de abrir o evento ao lado do grande amigo e profissional **[Vinicius Deschamps](https://www.linkedin.com/in/viniciusdeschamps/)** com uma palestra que foge um pouco do tradicional técnico — mas que é um divisor de águas **"Trabalhando para o Exterior: Realidade, Desafios e Oportunidades"**.
+Durante o [**Global Azure 2025 – Edição Azure Floripa**](https://www.meetup.com/azure-user-groups/events/306207034/?eventOrigin=group_past_events), tive o prazer de abrir o evento ao lado do grande amigo e profissional **[Vinicius Deschamps](https://www.linkedin.com/in/viniciusdeschamps/)** com uma palestra que foge um pouco do tradicional técnico — mas que é um divisor de águas **"Trabalhando para o Exterior: Realidade, Desafios e Oportunidades"**.
+
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gba25ci/00.png)
 
 Falamos sobre como é atuar em uma empresa internacional, os bastidores que, os impactos na vida pessoal e profissional, e claro, compartilhamos nossas experiências reais no mercado global.
 

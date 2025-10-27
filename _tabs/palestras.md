@@ -105,6 +105,15 @@ https://www.linkedin.com/posts/orafaelferreiraa_mvpconf2025-esquentamvpconf-curi
 
 - <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/hack/)
 
+##  16/08/25 - Trabalhando para o Exterior – Global Azure Floripa 2025
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/gba25ci/00.png)
+
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://www.meetup.com/azure-user-groups/events/306207034/?eventOrigin=group_past_events)
+<!--- 
+- <i class="fa-regular fa-folder-open"></i> **Slides da Apresentação:** [Trabalhando para o Exterior – Global Azure Floripa 2025](https://stoblobcertificados011.blob.core.windows.net/palestras/CloudModernaANTIAtaque.pdf)--->
+
+- <i class="fa-solid fa-link"></i> **Saiba mais:** [Blog Post + Fotos](https://orafaelferreira.com/posts/carreira-internacional/)
+
 ##  26/04/2025 - Os 6Rs que Você Precisa Conhecer para Migrar para a Cloud; O sétimo R é de Rivotril?! - Esquenta MVP Conf Blumenau
 ![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/mvpconfblu24/01.jpeg)
 
