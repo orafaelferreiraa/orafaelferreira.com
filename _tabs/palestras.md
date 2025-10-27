@@ -13,6 +13,10 @@ Meu objetivo é criar uma ponte de conhecimento entre profissionais da área, es
 
 # Próximos eventos: 
 
+## 06/11/25 - Trabalhando para o Exterior: Realidade, Desafios e Oportunidades - 1ª Semana Acadêmica de ADS - IFSC
+- <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://saads.framer.website/)
+![](https://stoblobcertificados011.blob.core.windows.net/imagens-blog/posts/SA-ADS/1.jpg)
+
 ## 29/11/25 - Como aplicar Segurança em Camadas na sua arquitetura Cloud Native com Open Source - DevOpsDays Porto Alegre 2025
 - <i class="fa-solid fa-link"></i> [**Site Oficial do Evento**](https://devopsdays.org/events/2025-porto-alegre/welcome/)
 
